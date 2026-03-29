@@ -1,0 +1,14 @@
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\obj\Debug\net10.0\Implementasi Table Driven (Bank Soal).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\obj\Debug\net10.0\Implementasi Table Driven (Bank Soal).AssemblyInfoInputs.cache
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\obj\Debug\net10.0\Implementasi Table Driven (Bank Soal).AssemblyInfo.cs
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\obj\Debug\net10.0\Implementasi Table Driven (Bank Soal).csproj.CoreCompileInputs.cache
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\bin\Debug\net10.0\Implementasi Table Driven (Bank Soal).exe
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\bin\Debug\net10.0\Implementasi Table Driven (Bank Soal).deps.json
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\bin\Debug\net10.0\Implementasi Table Driven (Bank Soal).runtimeconfig.json
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\bin\Debug\net10.0\Implementasi Table Driven (Bank Soal).dll
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\bin\Debug\net10.0\Implementasi Table Driven (Bank Soal).pdb
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\obj\Debug\net10.0\Implementasi Table Driven (Bank Soal).dll
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\obj\Debug\net10.0\refint\Implementasi Table Driven (Bank Soal).dll
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\obj\Debug\net10.0\Implementasi Table Driven (Bank Soal).pdb
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\obj\Debug\net10.0\Implementasi Table Driven (Bank Soal).genruntimeconfig.cache
+C:\Users\R9480\Documents\KPL\Tubes\Implementasi Table Driven (Bank Soal)\Implementasi Table Driven (Bank Soal)\obj\Debug\net10.0\ref\Implementasi Table Driven (Bank Soal).dll

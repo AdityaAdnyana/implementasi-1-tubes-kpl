@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\R9480\\Documents\\KPL\\Tubes\\Implementasi Table Driven (Bank Soal)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83BBB1A2-852C-4CFB-B002-69B0BDA3C998}|Implementasi Table Driven (Bank Soal)\\Implementasi Table Driven (Bank Soal).csproj|c:\\users\\r9480\\documents\\kpl\\tubes\\implementasi table driven (bank soal)\\implementasi table driven (bank soal)\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BBB1A2-852C-4CFB-B002-69B0BDA3C998}|Implementasi Table Driven (Bank Soal)\\Implementasi Table Driven (Bank Soal).csproj|solutionrelative:implementasi table driven (bank soal)\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BBB1A2-852C-4CFB-B002-69B0BDA3C998}|Implementasi Table Driven (Bank Soal)\\Implementasi Table Driven (Bank Soal).csproj|c:\\users\\r9480\\documents\\kpl\\tubes\\implementasi table driven (bank soal)\\implementasi table driven (bank soal)\\soal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BBB1A2-852C-4CFB-B002-69B0BDA3C998}|Implementasi Table Driven (Bank Soal)\\Implementasi Table Driven (Bank Soal).csproj|solutionrelative:implementasi table driven (bank soal)\\soal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BBB1A2-852C-4CFB-B002-69B0BDA3C998}|Implementasi Table Driven (Bank Soal)\\Implementasi Table Driven (Bank Soal).csproj|c:\\users\\r9480\\documents\\kpl\\tubes\\implementasi table driven (bank soal)\\implementasi table driven (bank soal)\\datasoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BBB1A2-852C-4CFB-B002-69B0BDA3C998}|Implementasi Table Driven (Bank Soal)\\Implementasi Table Driven (Bank Soal).csproj|solutionrelative:implementasi table driven (bank soal)\\datasoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSoal.cs",
+              "DocumentMoniker": "C:\\Users\\R9480\\Documents\\KPL\\Tubes\\Implementasi Table Driven (Bank Soal)\\Implementasi Table Driven (Bank Soal)\\DataSoal.cs",
+              "RelativeDocumentMoniker": "Implementasi Table Driven (Bank Soal)\\DataSoal.cs",
+              "ToolTip": "C:\\Users\\R9480\\Documents\\KPL\\Tubes\\Implementasi Table Driven (Bank Soal)\\Implementasi Table Driven (Bank Soal)\\DataSoal.cs",
+              "RelativeToolTip": "Implementasi Table Driven (Bank Soal)\\DataSoal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:34:06.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Soal.cs",
+              "DocumentMoniker": "C:\\Users\\R9480\\Documents\\KPL\\Tubes\\Implementasi Table Driven (Bank Soal)\\Implementasi Table Driven (Bank Soal)\\Soal.cs",
+              "RelativeDocumentMoniker": "Implementasi Table Driven (Bank Soal)\\Soal.cs",
+              "ToolTip": "C:\\Users\\R9480\\Documents\\KPL\\Tubes\\Implementasi Table Driven (Bank Soal)\\Implementasi Table Driven (Bank Soal)\\Soal.cs",
+              "RelativeToolTip": "Implementasi Table Driven (Bank Soal)\\Soal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:38:25.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\R9480\\Documents\\KPL\\Tubes\\Implementasi Table Driven (Bank Soal)\\Implementasi Table Driven (Bank Soal)\\main.cs",
+              "RelativeDocumentMoniker": "Implementasi Table Driven (Bank Soal)\\main.cs",
+              "ToolTip": "C:\\Users\\R9480\\Documents\\KPL\\Tubes\\Implementasi Table Driven (Bank Soal)\\Implementasi Table Driven (Bank Soal)\\main.cs",
+              "RelativeToolTip": "Implementasi Table Driven (Bank Soal)\\main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:54:52.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
