@@ -14,6 +14,4 @@ public class Soal
         dataSoal.Add(new DataSoal { Soal = "Test 3", Jawaban = new[] { "coba 1", "coba 2", "coba 3", "coba 4" }, JawabanSoal = 2 });
         dataSoal.Add(new DataSoal { Soal = "Test 4", Jawaban = new[] { "coba 1", "coba 2", "coba 3", "coba 4" }, JawabanSoal = 3 });
     }
-
-
 }
